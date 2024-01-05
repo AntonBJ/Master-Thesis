@@ -1,0 +1,53 @@
+,sample,swt,swt_result,kst,kst_result
+0,['03_sample_22967_p+10_f.wav'],0.029601488262414932,not normal,1.799854905956245e-16,not normal
+1,['01_sample_22967_p-10_f.wav'],0.022013569250702858,not normal,1.0842021724855044e-19,not normal
+2,['04_sample_22967_p+10_m.wav'],0.019610632210969925,not normal,0.0,not normal
+3,['02_sample_22967_p-10_m.wav'],0.009147493168711662,not normal,0.0,not normal
+4,['07_sample_2994_p+10_f.wav'],0.005091408267617226,not normal,0.0,not normal
+5,['05_sample_2994_p-10_f.wav'],0.00022112441365607083,not normal,0.0,not normal
+6,['08_sample_2994_p+10_m.wav'],0.0022512238938361406,not normal,0.0,not normal
+7,['06_sample_2994_p-10_m.wav'],2.927009973063832e-06,not normal,0.0,not normal
+8,['11_sample_3913_p+10_f.wav'],0.37965163588523865,normal,0.0,not normal
+9,['09_sample_3913_p-10_f.wav'],0.2102223038673401,normal,6.603381910460181e-15,not normal
+10,['12_sample_3913_p+10_m.wav'],0.5896347165107727,normal,6.603383011464065e-15,not normal
+11,['10_sample_3913_p-10_m.wav'],0.03623354434967041,not normal,6.603381910460181e-15,not normal
+12,['15_sample_4382_p+10_f.wav'],0.004637086298316717,not normal,0.0,not normal
+13,['13_sample_4382_p-10_f.wav'],0.0031054955907166004,not normal,1.0842021724855044e-19,not normal
+14,['16_sample_4382_p+10_m.wav'],0.011265179142355919,not normal,0.0,not normal
+15,['14_sample_4382_p-10_m.wav'],0.014028340578079224,not normal,4.567316521042319e-18,not normal
+16,['19_sample_5213_p+10_f.wav'],0.3305063247680664,normal,0.0,not normal
+17,['17_sample_5213_p-10_f.wav'],0.5771996974945068,normal,5.083056110668732e-23,not normal
+18,['20_sample_5213_p+10_m.wav'],0.3635603189468384,normal,1.801127498122131e-43,not normal
+19,['18_sample_5213_p-10_m.wav'],0.3553917407989502,normal,0.0,not normal
+20,['23_sample_6037_p+10_f.wav'],0.10582473874092102,normal,2.2431330956923136e-13,not normal
+21,['21_sample_6037_p-10_f.wav'],0.28167587518692017,normal,1.799854905956245e-16,not normal
+22,['24_sample_6037_p+10_m.wav'],0.04604066535830498,not normal,2.9791198403387755e-12,not normal
+23,['22_sample_6037_p-10_m.wav'],0.18296568095684052,normal,1.5055245448311798e-13,not normal
+24,['27_sample_60c5d6bf5659ea5e55def51c_p+10_f.wav'],0.02430517040193081,not normal,1.3339565815118641e-17,not normal
+25,['25_sample_60c5d6bf5659ea5e55def51c_p-10_f.wav'],0.1260877251625061,normal,1.723942044480726e-99,not normal
+26,['28_sample_60c5d6bf5659ea5e55def51c_p+10_m.wav'],0.009228134527802467,not normal,2.9791198403387755e-12,not normal
+27,['26_sample_60c5d6bf5659ea5e55def51c_p-10_m.wav'],0.9477100372314453,normal,7.009877989627876e-12,not normal
+28,['31_sample_60c5d6bf5659ea5e55defbed_p+10_f.wav'],0.3080311119556427,normal,0.0,not normal
+29,['29_sample_60c5d6bf5659ea5e55defbed_p-10_f.wav'],0.28984278440475464,normal,6.603381910460181e-15,not normal
+30,['32_sample_60c5d6bf5659ea5e55defbed_p+10_m.wav'],0.06503339856863022,normal,1.010907869964748e-24,not normal
+31,['30_sample_60c5d6bf5659ea5e55defbed_p-10_m.wav'],0.036787692457437515,not normal,4.567316521042319e-18,not normal
+32,['35_sample_60c5d6bf5659ea5e55defd2b_p+10_f.wav'],0.030848728492856026,not normal,0.0,not normal
+33,['33_sample_60c5d6bf5659ea5e55defd2b_p-10_f.wav'],0.4104938507080078,normal,6.603381910460925e-15,not normal
+34,['36_sample_60c5d6bf5659ea5e55defd2b_p+10_m.wav'],0.35548171401023865,normal,2.9791198403387755e-12,not normal
+35,['34_sample_60c5d6bf5659ea5e55defd2b_p-10_m.wav'],0.7180030345916748,normal,1.799854905956245e-16,not normal
+36,['39_sample_7699_p+10_f.wav'],1.273130237677833e-06,not normal,2.4176772966048027e-21,not normal
+37,['37_sample_7699_p-10_f.wav'],0.017027704045176506,not normal,0.0,not normal
+38,['40_sample_7699_p+10_m.wav'],0.000639510340988636,not normal,0.0,not normal
+39,['38_sample_7699_p-10_m.wav'],0.006691933609545231,not normal,0.0,not normal
+40,['43_sample_7809_p+10_f.wav'],0.24039803445339203,normal,0.0,not normal
+41,['41_sample_7809_p-10_f.wav'],0.2618027627468109,normal,2.4176772966048027e-21,not normal
+42,['44_sample_7809_p+10_m.wav'],0.03369378671050072,not normal,1.9316578300038918e-26,not normal
+43,['42_sample_7809_p-10_m.wav'],0.1502191126346588,normal,5.503918822368613e-11,not normal
+44,['47_sample_9064_p+10_f.wav'],0.96943598985672,normal,0.0,not normal
+45,['45_sample_9064_p-10_f.wav'],0.0007659347029402852,not normal,1.799854905956245e-16,not normal
+46,['48_sample_9064_p+10_m.wav'],0.03238901123404503,not normal,0.0,not normal
+47,['46_sample_9064_p-10_m.wav'],0.05769652873277664,normal,7.322199618961201e-35,not normal
+48,['51_sample_9093_p+10_f.wav'],0.5889739394187927,normal,1.9999999999999957e-10,not normal
+49,['49_sample_9093_p-10_f.wav'],0.3518962860107422,normal,1.0842021724856893e-19,not normal
+50,['52_sample_9093_p+10_m.wav'],0.28197574615478516,normal,2.9791198403389726e-12,not normal
+51,['50_sample_9093_p-10_m.wav'],0.4737834334373474,normal,1.0842021724855044e-19,not normal
